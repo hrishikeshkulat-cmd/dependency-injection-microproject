@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Send Notification";
+}
+
+<h2>Send Notification</h2>
+
+<form method="post" asp-controller="UserServices" asp-action="Index">
+    <input type="text" name="message" placeholder="Enter your message" />
+    <button type="submit">Send</button>
+</form>
+
+@if (ViewBag.Result != null)
+{
+    <p>@ViewBag.Result</p>
+}

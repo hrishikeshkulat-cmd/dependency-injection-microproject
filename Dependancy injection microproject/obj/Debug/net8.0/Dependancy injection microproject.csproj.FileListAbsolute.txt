@@ -1,0 +1,33 @@
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\bin\Debug\net8.0\appsettings.Development.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\bin\Debug\net8.0\appsettings.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\bin\Debug\net8.0\Dependancy injection microproject.staticwebassets.runtime.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\bin\Debug\net8.0\Dependancy injection microproject.staticwebassets.endpoints.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\bin\Debug\net8.0\Dependancy injection microproject.exe
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\bin\Debug\net8.0\Dependancy injection microproject.deps.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\bin\Debug\net8.0\Dependancy injection microproject.runtimeconfig.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\bin\Debug\net8.0\Dependancy injection microproject.dll
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\bin\Debug\net8.0\Dependancy injection microproject.pdb
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.AssemblyInfoInputs.cache
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.AssemblyInfo.cs
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.csproj.CoreCompileInputs.cache
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.MvcApplicationPartsAssemblyInfo.cache
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.RazorAssemblyInfo.cache
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.RazorAssemblyInfo.cs
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\scopedcss\bundle\Dependancy injection microproject.styles.css
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\scopedcss\projectbundle\Dependancy injection microproject.bundle.scp.css
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\staticwebassets.build.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\staticwebassets.development.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.dll
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\refint\Dependancy injection microproject.dll
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.pdb
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\Dependancy injection microproject.genruntimeconfig.cache
+E:\newgen .net classes\c#\Dependancy injection microproject\Dependancy injection microproject\obj\Debug\net8.0\ref\Dependancy injection microproject.dll
