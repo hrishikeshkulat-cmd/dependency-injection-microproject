@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dependancy injection microproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d384de85e60a8f8dd8369fcd3925f88d29a75a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dependancy injection microproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dependancy injection microproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
